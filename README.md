@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://linkedin.com/in/alexandru-boscan">My linkedin Profile</a>
+    <a href="https://www.linkedin.com/in/alexandru-bo%C8%99can/">My linkedin Profile</a>
 </p>
 
 ## About This Project
