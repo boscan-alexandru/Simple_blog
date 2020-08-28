@@ -10,7 +10,8 @@ This is a test for a laravel position.
 
 1. composer install
 2. npm install
-3. Update the database connection settings in .env file and run the migration with  "php artisan migrate"
-3. php artisan serve & npm run dev
+3. create a database named "blog-test"
+4. Update the database connection settings in .env file and run the migration with  "php artisan migrate"
+5. php artisan serve & npm run dev
 
 
